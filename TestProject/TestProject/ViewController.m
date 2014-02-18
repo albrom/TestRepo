@@ -20,6 +20,8 @@
     
     
     NSLog(@"Changed from 1 user");
+    
+    NSLog(@"Changed from 2 user");
 }
 
 - (void)didReceiveMemoryWarning
