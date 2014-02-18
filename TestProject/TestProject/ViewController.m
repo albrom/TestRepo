@@ -25,6 +25,8 @@
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];
+    
+    NSLog(@"Changes from user 1");
     // Dispose of any resources that can be recreated.
 }
 
