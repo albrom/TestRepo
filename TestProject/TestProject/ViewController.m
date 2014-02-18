@@ -17,7 +17,9 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+    
+    
+    NSLog(@"Changed from 1 user");
 }
 
 - (void)didReceiveMemoryWarning
