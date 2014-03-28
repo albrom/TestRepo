@@ -38,8 +38,4 @@
     NSLog(@"Function");
 }
 
-- (void)anotherFunctionTest {
-    NSLog(@"Blaaaaa");
-}
-
 @end
