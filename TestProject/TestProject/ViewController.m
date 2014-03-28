@@ -19,7 +19,7 @@
     [super viewDidLoad];
     
     
-    NSLog(@"Changed from 1 user");
+    NSLog(@"Changed heeee 1 user");
     
     NSLog(@"Changed from 2 user");
     

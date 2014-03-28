@@ -10,6 +10,4 @@
 
 @interface ViewController : UIViewController
 
-- (void)changesHere;
-
 @end
