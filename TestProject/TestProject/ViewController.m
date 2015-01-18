@@ -28,6 +28,8 @@
     NSLog(@"CHANGE AUTHOR OF COMMIT");
     
     NSLog(@"1");
+    
+    NSLog(@"2");
 }
 
 - (void)didReceiveMemoryWarning
