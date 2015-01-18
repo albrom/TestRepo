@@ -26,6 +26,8 @@
     NSLog(@"Changes from 1 user aaaaaa");
     
     NSLog(@"CHANGE AUTHOR OF COMMIT");
+    
+    NSLog(@"1");
 }
 
 - (void)didReceiveMemoryWarning
